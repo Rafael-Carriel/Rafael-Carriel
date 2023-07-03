@@ -17,4 +17,9 @@
   &nbsp &nbsp
   <img alt="pytorch" width="40" src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" />
   &nbsp &nbsp
+  <img alt="pandas" width="40" src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" />
+  &nbsp &nbsp
+  <img alt="sklearn" width="40" src="https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange-thumbnail.png" />
+  &nbsp &nbsp
+  
 </div>
