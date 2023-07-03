@@ -17,9 +17,12 @@
   &nbsp &nbsp
   <img alt="pytorch" width="40" src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" />
   &nbsp &nbsp
-  <img alt="pandas" width="40" src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" />
+  <img alt="pandas" width="40" src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" />
   &nbsp &nbsp
-  <img alt="sklearn" width="40" src="https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange-thumbnail.png" />
+  <img alt="matplotlib" width="40" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
   &nbsp &nbsp
-  
+  <img alt="jupyter" width="40" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" />
+  &nbsp &nbsp
+  <img alt="sklearn" width="40" src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" />
+  &nbsp &nbsp
 </div>
