@@ -2,7 +2,7 @@
 
 ![Rafael Carriel GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rafael-Carriel&show_icons=true&theme=tokyonight)
 
-## Ferramentas utilizadas
+## Tecnologias utilizadas
 
 <div style="display: inline-block">
   
@@ -11,7 +11,7 @@
   &nbsp &nbsp
   <img alt="Firebase" width="40" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />
   &nbsp &nbsp  
-  <img alt="Flutter" width="40" src="https://seeklogo.com/images/F/flutter-logo-304BF94F55-seeklogo.com.png" />
+  <img alt="Flutter" width="40" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" />
   &nbsp &nbsp  
   <img alt="Python" width="40" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
   &nbsp &nbsp
