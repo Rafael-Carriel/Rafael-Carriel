@@ -1,8 +1,9 @@
-![image](https://github.com/Rafael-Carriel/Rafael-Carriel/assets/73704406/a615eaa1-1bc2-4d67-8e6a-ecb2aa2ed585)### Olá eu sou Rafael Carriel 👋
+### Olá eu sou Rafael Carriel 👋
 
 ![Rafael Carriel GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rafael-Carriel&show_icons=true&theme=tokyonight)
 
 ## Ferramentas utilizadas
+
 <div style="display: inline-block">
   
   <!-- HTML, CSS and JS related -->
